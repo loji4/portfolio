@@ -1,0 +1,59 @@
+* {
+    font-family: 'Lato', sans-serif; 
+}
+
+.img-thumbnail {
+    height: 100px;
+}
+/* 
+.top-hr {
+    margin-top: 5x;
+} */
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0%;
+}
+
+.first-box {
+    background-color: #AFC9BB;
+}
+
+.second-box {
+   background-color: #EFEFEF;
+}
+/* * {
+    background-color:#9EC0B5
+} */
+
+.pinkli {
+    color: #DF466B;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.pink {
+    /* color: #DF466B; */
+    /* text-decoration: underline; */
+
+}
+
+.about-me {
+    font-family:'Courier Prime', monospace;
+}
+
+.title-font {
+    font-family: 'Overpass', sans-serif;}
+
+.greeting {
+    font-weight: bold;
+}
+
+.bookicon{
+    height: 200px;
+}
+
